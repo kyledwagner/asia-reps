@@ -1,2 +1,2 @@
 # asia-reps
-The Wordpress testing area for asia-reps website.
+The custom Wordpress theme repository for Asia-Reps.com.
